@@ -6,10 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Back End
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-### DB
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img style="height:30px;width:130px;" src=https://raw.githubusercontent.com/sathishsridhar/sathishsridhar/main/images/Javaimg.png>&nbsp;	&nbsp;<img style="height:30px;width:130px;margin-left:5px;" src=https://github.com/sathishsridhar/sathishsridhar/blob/main/images/nodejs.png>
+
+### DataBases
+<img style="height:30px;width:130px;" src=https://raw.githubusercontent.com/sathishsridhar/sathishsridhar/main/images/mysql.png>&nbsp;	&nbsp;<img style="height:30px;width:130px;background:#fff;" src="https://raw.githubusercontent.com/sathishsridhar/sathishsridhar/main/images/mongodb.png">
 
 
