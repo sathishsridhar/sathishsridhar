@@ -1,6 +1,8 @@
 ## Hey, I am full stack developer with 3+ years of expeience in Javascript, React and Java.
 
-:computer: I spend my free time learning system design to build scalable systems. 
+:computer: I spend my free time learning system design to build scalable systems.
+
+![](https://komarev.com/ghpvc/?username=sathishsridhar&color=blue&label=Views)
 
 ### Front End
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
