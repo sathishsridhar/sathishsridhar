@@ -1,4 +1,4 @@
-## Hey, I am full stack developer with 3+ years of expeience in Javascript, React and Java.
+## Hey, I am full stack developer with 4+ years of expeience in Javascript, React and Java.
 
 :computer: I spend my free time learning system design to build scalable systems.
 
